@@ -1,0 +1,7 @@
+ai-fertilizer-recommendation/
+│
+├── login.html
+├── register.html
+├── index.html   (your fertilizer page)
+├── style.css
+└── script.js
